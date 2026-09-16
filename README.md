@@ -106,27 +106,40 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=37chengshan&theme=radical" width="33%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=37chengshan&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
-</div>
-
-<h2 align="center">🌟 精选项目 · 澄闪同款电紫</h2>
-<div align="center">
-  <a href="https://github.com/37chengshan?tab=repositories">
-    <img src="assets/goldenglow.jpg" width="49%" alt="明日方舟 · 澄闪 Goldenglow" />
-  </a>
-  <a href="https://github.com/37chengshan?tab=repositories">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,50:2a1040,100:c44dff&height=612&section=header&text=Agent+Skills+Lab&fontSize=36&fontColor=white&desc=Multi-Agent%20%C2%B7%20Skills%20%C2%B7%20Orchestration&descColor=e0aaff&descAlignY=50" width="49%" alt="Agent Skills Lab" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/37chengshan?tab=repositories">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,50:6b2d8b,100:e0aaff&height=180&section=header&text=Full-Stack+AI+Apps&fontSize=36&fontColor=white&desc=Web%20%C2%B7%20App%20%C2%B7%20Any%20Stack&descColor=c44dff&descAlignY=50" width="49%" alt="Full-Stack AI Apps" />
-  </a>
-  <a href="https://github.com/37chengshan?tab=repositories">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,50:2a1040,100:c44dff&height=180&section=header&text=Open+to+Collab&fontSize=36&fontColor=white&desc=AGI%20%C2%B7%20Robotics%20%C2%B7%20Arknights&descColor=e0aaff&descAlignY=50" width="49%" alt="Open to Collab" />
-  </a>
-</div>
+<h2 align="center">🌟 精选项目</h2>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/37chengshan/agent-mcp">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,50:2a1040,100:c44dff&height=160&section=header&text=agent-mcp&fontSize=42&fontColor=white&fontAlignY=38&desc=Multi-Agent%20Orchestration&descColor=e0aaff&descAlignY=68" width="100%" alt="agent-mcp" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/37chengshan/eduevidence">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,50:6b2d8b,100:e0aaff&height=160&section=header&text=eduevidence&fontSize=42&fontColor=white&fontAlignY=38&desc=Evidence-Based%20AI%20Teaching&descColor=c44dff&descAlignY=68" width="100%" alt="eduevidence" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/37chengshan/k230-steel-ball-detector">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,50:2a1040,100:c44dff&height=160&section=header&text=k230-detector&fontSize=36&fontColor=white&fontAlignY=38&desc=YOLO%20%C2%B7%20CanMV%20%C2%B7%20%E7%94%B5%E8%B5%9B&descColor=e0aaff&descAlignY=68" width="100%" alt="k230-steel-ball-detector" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/37chengshan/ompweb">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,50:6b2d8b,100:e0aaff&height=160&section=header&text=ompweb&fontSize=42&fontColor=white&fontAlignY=38&desc=Web%20UI%20for%20OMP%20Agent&descColor=c44dff&descAlignY=68" width="100%" alt="ompweb" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/37chengshan?tab=repositories">
+        <img src="assets/goldenglow.jpg" width="48%" alt="Goldenglow" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/37chengshan?tab=repositories">
