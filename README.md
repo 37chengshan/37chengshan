@@ -154,6 +154,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=37chengshan&theme=radical" width="33%" />
   <br/>
   <img src="https://raw.githubusercontent.com/37chengshan/37chengshan/output/streak.svg" width="100%" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/37chengshan/37chengshan/output/activity.svg" width="100%" alt="Contribution Activity" />
   <img src="https://raw.githubusercontent.com/37chengshan/37chengshan/output/metrics.svg" width="100%" alt="GitHub Metrics" />
 </div>
 
