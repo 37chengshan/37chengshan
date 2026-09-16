@@ -1,0 +1,41 @@
+name: streak-stats
+
+on:
+  schedule:
+    - cron: "30 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: fetch streak.svg
+        id: fetch
+        run: |
+          mkdir -p dist
+          # Self-host demolab streak stats; skip cleanly if service is down.
+          url='https://streak-stats.demolab.com?user=37chengshan&theme=tokyonight&hide_border=true&locale=en&date_format=M%20j%5B%2C%20Y%5D'
+          if curl -fsSL --retry 2 --retry-delay 5 --max-time 60 "$url" -o dist/streak.svg \
+            && grep -q '<svg' dist/streak.svg \
+            && [ "$(wc -c < dist/streak.svg)" -gt 500 ]; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+            ls -la dist/streak.svg
+          else
+            echo "demolab unavailable or returned non-SVG; skipping push"
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+            rm -f dist/streak.svg
+          fi
+
+      - name: push to output
+        if: steps.fetch.outputs.ok == 'true'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          keep_files: true
+          commit_message: "chore: update streak stats"

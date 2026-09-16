@@ -48,9 +48,10 @@ jobs:
           PY
 
       - name: push to output
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          keep_files: true
+          commit_message: "chore: update snake animation"
