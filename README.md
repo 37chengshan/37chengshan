@@ -5,6 +5,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,25:2a1040,50:6b2d8b,75:c44dff,100:e0aaff&height=250&section=header&text=37chengshan&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=%E6%B7%B1%E5%BA%A6AI%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20%E5%AD%A6%E7%94%9F%20%C2%B7%20Agent%20%E7%BC%96%E6%8E%92&descAlignY=55&descColor=e0aaff" />
 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=e0aaff&center=true&vCenter=true&random=false&width=680&height=70&lines=%E2%80%9C%E7%94%A8Agent%E7%BC%96%E6%8E%92%E6%89%A9%E5%B1%95%E4%BA%BA%E7%9A%84%E8%BE%B9%E7%95%8C%E3%80%82%E2%80%9D;%E2%80%9C%E4%BB%A3%E7%A0%81%E6%98%AF%E6%89%8B%E7%9A%84%E5%BB%B6%E4%BC%B8%EF%BC%8CAI%E6%98%AF%E6%80%9D%E7%BB%B4%E7%9A%84%E6%9D%A0%E6%9D%86%E3%80%82%E2%80%9D;%E2%80%9C%E4%BF%9D%E6%8C%81%E9%A5%A5%E9%A5%BF%EF%BC%8C%E4%BF%9D%E6%8C%81%E6%84%9A%E8%A0%A2%E3%80%82%E2%80%9D" alt="编程名言" />
+
 # 👋 Hello，here is 37chengshan
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=c44dff&center=true&vCenter=true&width=680&lines=Student+%7C+Deep+AI+Developer+%7C+Agent+Orchestrator;Web+%7C+App+%7C+Any+Stack%EF%BC%8C+AI+%E8%B5%8B%E8%83%BD%E5%85%A8%E6%A0%88%E4%BA%A4%E4%BB%98;Skills+%7C+Multi-Agent+%7C+Prompt+Engineering;AGI+%C2%B7+%E6%9C%BA%E5%99%A8%E4%BA%BA+%C2%B7+%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F)](https://git.io/typing-svg)
@@ -131,18 +133,13 @@
 </div>
 
 <h2 align="center">🐍 GitHub 活动</h2>
-
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/37chengshan/37chengshan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/37chengshan/37chengshan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/37chengshan/37chengshan/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=37chengshan&theme=radical" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=e0aaff&center=true&vCenter=true&random=false&width=600&height=80&lines=%E2%80%9C%E7%94%A8Agent%E7%BC%96%E6%8E%92%E6%89%A9%E5%B1%95%E4%BA%BA%E7%9A%84%E8%BE%B9%E7%95%8C%E3%80%82%E2%80%9D;%E2%80%9C%E4%BB%A3%E7%A0%81%E6%98%AF%E6%89%8B%E7%9A%84%E5%BB%B6%E4%BC%B8%EF%BC%8CAI%E6%98%AF%E6%80%9D%E7%BB%B4%E7%9A%84%E6%9D%A0%E6%9D%86%E3%80%82%E2%80%9D;%E2%80%9C%E4%BF%9D%E6%8C%81%E9%A5%A5%E9%A5%BF%EF%BC%8C%E4%BF%9D%E6%8C%81%E6%84%9A%E8%A0%A2%E3%80%82%E2%80%9D" alt="编程名言" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/37chengshan/37chengshan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/37chengshan/37chengshan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/37chengshan/37chengshan/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=37chengshan&theme=radical" width="100%" />
 </div>
 
 <h3 align="center">✨ 感谢访问我的 GitHub 主页</h3>

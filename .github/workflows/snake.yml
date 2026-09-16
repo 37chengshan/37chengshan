@@ -23,6 +23,30 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Skip the ~2.4s blank intro (snake starts above grid, first cells light at ~8%)
+      - name: skip blank intro
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          delay = "animation-delay:-2500ms;"
+          for p in Path("dist").glob("*.svg"):
+              s = p.read_text()
+              if "animation-delay" in s:
+                  print(f"skip {p} (already patched)")
+                  continue
+              marker = "</style>"
+              if marker not in s:
+                  raise SystemExit(f"no </style> in {p}")
+              # inject on every animated class
+              inject = (
+                  ".c,.s,.u{" + delay + "}"
+              )
+              s = s.replace(marker, inject + marker, 1)
+              p.write_text(s)
+              print(f"patched {p} -> {delay}")
+          PY
+
       - name: push to output
         uses: crazy-max/ghaction-github-pages@v4
         with:
