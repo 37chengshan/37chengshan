@@ -160,7 +160,7 @@
 <h3 align="center">✨ 感谢访问我的 GitHub 主页</h3>
 
 <div align="center">
-  <a href="https://github.com/37chengshan" title="回到 GitHub">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=70&text=37chengshan&fontSize=26&fontColor=white&animation=fadeIn" width="100%" style="border-radius: 8px;" alt="Entrance" />
+  <a href="https://37chengshan.github.io/citygenius-blog/" title="访问我的博客">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=80&text=CityGenius%20Blog&fontSize=28&fontColor=white&animation=fadeIn" width="100%" style="border-radius: 8px;" alt="CityGenius Blog" />
   </a>
 </div>
