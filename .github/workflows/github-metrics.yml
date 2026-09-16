@@ -27,14 +27,16 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_details: lines-size
-          config: |
-            css: |
-              section {
-                accent-color: #c77dff;
-              }
-              header span {
-                color: #c77dff;
-              }
+          # Commit SVG onto the shared output branch (same branch as snake/streak)
+          committer_branch: output
+          committer_message: "chore: update metrics.svg"
+          extras_css: |
+            section {
+              accent-color: #c77dff;
+            }
+            header span {
+              color: #c77dff;
+            }
 
       - name: generate activity.svg (isocalendar)
         uses: lowlighter/metrics@latest
@@ -49,18 +51,5 @@ jobs:
           config_animations: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-
-      - name: stage dist
-        run: |
-          mkdir -p dist
-          mv -f metrics.svg activity.svg dist/
-          ls -la dist
-
-      - name: push to output
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          keep_files: true
-          commit_message: "chore: update github metrics"
+          committer_branch: output
+          committer_message: "chore: update activity.svg"
