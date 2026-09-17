@@ -104,6 +104,7 @@
       <a href="https://github.com/37chengshan/agent-mcp/stargazers">
         <img src="https://img.shields.io/github/stars/37chengshan/agent-mcp?style=social" alt="stars" />
       </a>
+      · <a href="https://37chengshan.github.io/citygenius-blog/article/project-agent-mcp/">想法→实现</a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/37chengshan/eduevidence">
@@ -116,6 +117,7 @@
       <a href="https://github.com/37chengshan/eduevidence/stargazers">
         <img src="https://img.shields.io/github/stars/37chengshan/eduevidence?style=social" alt="stars" />
       </a>
+      · <a href="https://37chengshan.github.io/citygenius-blog/article/project-eduevidence/">想法→实现</a>
     </td>
   </tr>
   <tr>
@@ -130,6 +132,7 @@
       <a href="https://github.com/37chengshan/d-token/stargazers">
         <img src="https://img.shields.io/github/stars/37chengshan/d-token?style=social" alt="stars" />
       </a>
+      · <a href="https://37chengshan.github.io/citygenius-blog/article/project-d-token/">想法→实现</a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/37chengshan/ompweb">
@@ -142,6 +145,7 @@
       <a href="https://github.com/37chengshan/ompweb/stargazers">
         <img src="https://img.shields.io/github/stars/37chengshan/ompweb?style=social" alt="stars" />
       </a>
+      · <a href="https://37chengshan.github.io/citygenius-blog/article/project-ompweb/">想法→实现</a>
     </td>
   </tr>
 </table>
