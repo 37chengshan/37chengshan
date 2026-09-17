@@ -48,15 +48,15 @@
 
 ## 🌟 关于我
 
-我是**学生**，在不同技术栈之间做完整交付——Web / App / 跨端。日常写业务代码，也自主研发 **Claude Skills** 与 Agent 编排，把「会用工具」变成「能造工具」。兴趣：机器人交互、明日方舟。
+还在读书。写过 Web、App、小程序，啥技术栈都敢接，接了就把它做完。平时主要在写业务代码，空下来会折腾 Claude Skills 和 Agent 编排，自己造点顺手的工具。另外喜欢机器人，也玩明日方舟（澄闪厨）。
 
 <details>
   <summary><b>🤖 Agent 与 Claude Skills (点击展开)</b></summary>
   <br>
   <ul>
-    <li><b>Claude Skills:</b> 自定义 Skill 契约 · 可复用工作流沉淀 · 工具调用设计</li>
-    <li><b>工作流:</b> Multi-Agent 编排 · 子代理分工 · 跨会话协同</li>
-    <li><b>提示工程:</b> 结构化输出 · 约束与验证 · 上下文管理</li>
+    <li><b>Claude Skills:</b> 自己写 Skill，把常用流程做成可复用的东西</li>
+    <li><b>工作流:</b> Multi-Agent 分工、子代理协作、跨会话接着干</li>
+    <li><b>提示工程:</b> 结构化输出、约束验证、上下文怎么塞</li>
     <li><b>常用工具:</b> Claude Code · Cursor · MiMo Desktop</li>
     <li><b>兴趣:</b> 机器人交互 · 游戏 AI（明日方舟）</li>
   </ul>
@@ -81,7 +81,7 @@
     <li><b>DevOps:</b> Docker · Linux · Nginx · Git · GitHub Actions</li>
     <li><b>构建:</b> Vite · Webpack · pnpm · CI/CD</li>
     <li><b>设计:</b> Figma · UI/UE</li>
-    <li><b>方法:</b> 需求拆解 · 可验证验收 · 小步迭代</li>
+    <li><b>方法:</b> 先把需求拆小，每步都能验证</li>
   </ul>
 </details>
 
