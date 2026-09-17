@@ -6,13 +6,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,50:2a1040,100:c44dff&height=180&section=header&text=37chengshan&fontAlignY=38&fontSize=60&fontColor=E0AAFF&animation=fadeIn" alt="37chengshan" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=e0aaff&center=true&vCenter=true&width=720&height=56&lines=%E2%80%9CTalk%20is%20cheap.%20Show%20me%20the%20code.%E2%80%9D%20%E2%80%94%20Linus%20Torvalds;%E2%80%9CPremature%20optimization%20is%20the%20root%20of%20all%20evil.%E2%80%9D%20%E2%80%94%20Donald%20Knuth;%E2%80%9CSimple%20is%20better%20than%20complex.%E2%80%9D%20%E2%80%94%20Tim%20Peters" alt="编程名言" />
-</div>
+<p align="center">
+  <i>“Talk is cheap. Show me the code.” — Linus Torvalds</i><br/>
+  <i>“Premature optimization is the root of all evil.” — Donald Knuth</i><br/>
+  <i>“Simple is better than complex.” — Tim Peters</i>
+</p>
 
-# 👋 Hello，here is 37chengshan
+<h1 align="center">👋 Hello，here is 37chengshan</h1>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=600&color=c44dff&center=true&vCenter=true&width=680&lines=%E5%AD%A6%E7%94%9F%20%C2%B7%20%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91;Web%20%2F%20App%20%2F%20%E8%B7%A8%E7%AB%AF;Claude%20Skills%20%C2%B7%20Agent%20%E7%BC%96%E6%8E%92;%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%20%C2%B7%20Goldenglow)](https://git.io/typing-svg)
+<p align="center">
+  <b>学生</b> · 全栈开发 · Web / App / 跨端<br/>
+  <b>Claude Skills</b> · Agent 编排<br/>
+  明日方舟 · Goldenglow
+</p>
 
 <p align="center">
   <a href="https://github.com/37chengshan">
@@ -177,12 +183,33 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=37chengshan&theme=radical" width="100%" />
 </div>
 
+## 📝 博客 · CityGenius
+
+<p align="center">
+  <a href="https://37chengshan.github.io/citygenius-blog/">
+    <img src="assets/blog-preview.jpg" width="100%" alt="CityGenius Blog 首页" />
+  </a>
+</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://37chengshan.github.io/citygenius-blog/article/vibe-coding-3-days/">
+        <img src="assets/blog-article.jpg" width="100%" alt="文章预览" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <b>CityGenius Blog</b><br/>
+      一个大学生的 Vibe Coding 实验室<br/><br/>
+      全栈 · AI 应用 · 移动端<br/><br/>
+      <a href="https://37chengshan.github.io/citygenius-blog/">
+        <img src="https://img.shields.io/badge/%E8%AE%BF%E9%97%AE%E5%8D%9A%E5%AE%A2-CityGenius-C44DFF?style=for-the-badge" alt="访问博客" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">✨ 感谢访问我的 GitHub 主页</h3>
 
 <div align="center">
   <img src="assets/pixel-crew.png" width="280" alt="pixel-crew" />
-  <br/><br/>
-  <a href="https://37chengshan.github.io/citygenius-blog/" title="访问我的博客">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=80&text=CityGenius%20Blog&fontSize=28&fontColor=white&animation=fadeIn" width="100%" style="border-radius: 8px;" alt="CityGenius Blog" />
-  </a>
 </div>
