@@ -16,7 +16,7 @@
 
 <p align="center">
   <b>学生</b> · 全栈开发 · Web / App / 跨端<br/>
-  <b>Claude Skills</b> · Agent 编排<br/>
+  <b>Skills</b> · Agent 编排<br/>
   明日方舟 · Goldenglow
 </p>
 
