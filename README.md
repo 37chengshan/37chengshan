@@ -148,6 +148,20 @@
       · <a href="https://37chengshan.github.io/citygenius-blog/article/project-ompweb/">想法→实现</a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/37chengshan/phone-lyrics-mac">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d11,50:1a2440,100:7aa2ff&height=160&section=header&text=phone-lyrics-mac&fontSize=38&fontColor=white&fontAlignY=38&desc=Phone%20QQ%20Music%20%E2%86%92%20Mac%20Lyrics&descColor=a8c0ff&descAlignY=68" width="100%" alt="phone-lyrics-mac" />
+      </a>
+      <br/>
+      <a href="https://github.com/37chengshan/phone-lyrics-mac"><b>phone-lyrics-mac</b></a>
+      · 手机 QQ 音乐 → Mac 桌面歌词
+      <br/>
+      <a href="https://github.com/37chengshan/phone-lyrics-mac/stargazers">
+        <img src="https://img.shields.io/github/stars/37chengshan/phone-lyrics-mac?style=social" alt="stars" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
