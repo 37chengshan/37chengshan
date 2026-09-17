@@ -120,15 +120,15 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/37chengshan/k230-steel-ball-detector">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,50:2a1040,100:c44dff&height=160&section=header&text=k230-detector&fontSize=36&fontColor=white&fontAlignY=38&desc=YOLO%20%C2%B7%20CanMV%20%C2%B7%20%E7%94%B5%E8%B5%9B&descColor=e0aaff&descAlignY=68" width="100%" alt="k230-steel-ball-detector" />
+      <a href="https://github.com/37chengshan/d-token">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,50:2a1040,100:c44dff&height=160&section=header&text=d-token&fontSize=42&fontColor=white&fontAlignY=38&desc=Rust%20%C2%B7%20Token%20Toolkit&descColor=e0aaff&descAlignY=68" width="100%" alt="d-token" />
       </a>
       <br/>
-      <a href="https://github.com/37chengshan/k230-steel-ball-detector"><b>k230-steel-ball-detector</b></a>
-      · K230 视觉检测
+      <a href="https://github.com/37chengshan/d-token"><b>d-token</b></a>
+      · Token 工具链
       <br/>
-      <a href="https://github.com/37chengshan/k230-steel-ball-detector/stargazers">
-        <img src="https://img.shields.io/github/stars/37chengshan/k230-steel-ball-detector?style=social" alt="stars" />
+      <a href="https://github.com/37chengshan/d-token/stargazers">
+        <img src="https://img.shields.io/github/stars/37chengshan/d-token?style=social" alt="stars" />
       </a>
     </td>
     <td width="50%" align="center">
